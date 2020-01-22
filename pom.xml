@@ -37,6 +37,7 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
+          <compilerVersion>1.8</compilerVersion>
           <source>1.8</source>
           <target>1.8</target>
         </configuration>
@@ -96,7 +97,7 @@
 
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
-          <version>2.3.2</version>
+          <version>3.5.1</version>
         </plugin>
 
         <plugin>
